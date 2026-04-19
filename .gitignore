@@ -1,0 +1,11 @@
+/node_modules/
+
+.vitepress/
+/.DS_Store
+/package-lock.json
+/package.json
+docs/api-examples.md
+docs/index.md
+docs/markdown-examples.md
+TypeOfDoc.md
+DocumentationOverView.md
