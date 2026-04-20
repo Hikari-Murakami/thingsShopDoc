@@ -1,4 +1,4 @@
-# Things Shop Read Me 
+
 
 This Is My POV ON This Business. 
 ***IMPORTANT*** This is not my solid work.
