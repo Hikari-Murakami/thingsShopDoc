@@ -1,5 +1,8 @@
 # Things Shop Read Me 
 
+This Is My POV ON This Business. 
+***IMPORTANT*** This is not my solid work.
+
 ## What I understand about this business
 
 - we buy product
@@ -28,7 +31,7 @@
     Ship Product 
 
 ```
-
+---
 ## What problem does this system solve?
 
 - Sell products online
@@ -36,6 +39,7 @@
 - Record Sale 
 - Ship Product 
 
+---
 ## Main Actors
 
 Questions 
@@ -73,9 +77,30 @@ Customer B2B
     Access to B2B Dashboard (Not Admin Not Staff)
     Manage B2B Dashboard 
 ```
-Customer
+Customer B2C
 ```txt
     His or Her Account Management 
 ```
-What important things does the business manage?
--
+---
+## What important things does the business manage?
+- User
+- Product
+- Order
+- Payment 
+- Shipping
+
+---
+
+
+## What are the lifecycle of the main object?
+Let me only Think Two at this time
+### Product To Order
+Product 
+```txt
+ In Stock ↔️ Out of Stock
+```
+Order
+```txt
+  Pending -> Confirmed -> Shipped -> Return
+```
+>We Can discuss About This Later FOR Confirmation
